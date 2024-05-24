@@ -35,3 +35,13 @@ faça um texto para ebook, com foco em suporte de tecnologia da informação, li
 
 - Imagem Capa
 Sobre o tema Tecnologia da Informação, quero uma imagem tecnológica e inovadora, com tema de super-herói de história em quadrinhos, com pose de heróis, com estilo de pixel art cyberpunk.
+
+🛠️ Instruções de Execução
+
+Utilize os prompts acima nas ferramentas sugeridas para gerar a base de material e utilize uma ferramenta de edição de documentos como power point, libreoffice, indesign para diagramação.
+
+👨‍💻 Aluno Dev
+
+**Cristian Eggert**
+
+[Linkedin](https://www.linkedin.com/in/cristian-eggert/)
